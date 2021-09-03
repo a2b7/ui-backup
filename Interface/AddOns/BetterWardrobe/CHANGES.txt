@@ -1,0 +1,16 @@
+tag 38770a13706e8cf14e9bc52694764993b88a7654 V3.2
+Author:	SLOKnightfall <SLOKnightfall@gmail.com>
+Date:	Mon Jul 5 18:03:35 2021 -0700
+
+bugfixes
+
+commit 27ea3040a9e35a59bfbb0cdc9fd4030d2766edcf
+Author: SLOKnightfall <SLOKnightfall@gmail.com>
+Date:   Mon Jul 5 13:39:38 2021 -0700
+
+    -Fixed Mogit error when no data
+    -Fixed extra set sorting
+    -Fixed some sets using the wrong expansion id
+    -Fixed set display problems due to missing data
+    -Fixed set counts showing as collected after selecting a set
+

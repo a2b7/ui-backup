@@ -1,0 +1,75 @@
+## Interface: 90100
+## Title: BetterWardrobe (V3.2)
+## Version: V3.2
+## Game Version: 9.1
+## Author: SLOKnightfall
+## Notes: 
+## OptionalDeps: MogIt, CanIMogIt
+## SavedVariables: BetterWardrobe_Options, BetterWardrobe_CharacterData, BetterWardrobe_SavedSetData, BetterWardrobe_SubstituteItemData, BetterWardrobe_ListData, BetterWardrobe_Mogitdata
+
+#Libraries
+Libs\LibStub\LibStub.lua
+Libs\CallbackHandler-1.0\CallbackHandler-1.0.lua
+Libs\AceAddon-3.0\AceAddon-3.0.xml
+Libs\AceConsole-3.0\AceConsole-3.0.xml
+Libs\AceGUI-3.0\AceGUI-3.0.xml
+Libs\AceConfig-3.0\AceConfig-3.0.xml
+Libs\AceDB-3.0\AceDB-3.0.xml
+Libs\AceDBOptions-3.0\AceDBOptions-3.0.xml
+Libs\AceEvent-3.0\AceEvent-3.0.xml
+Libs\AceHook-3.0\AceHook-3.0.xml
+Libs\AceLocale-3.0\AceLocale-3.0.xml
+Libs\LibArmorToken-1.0\lib.xml
+Libs\LibAppropriateitems-1.0\lib.xml
+#Libs\LibDataBroker-1.1\LibDataBroker-1.1.lua
+#Libs\LibTextDump-1.0\LibTextDump-1.0.lua
+Libs\UIDropDownMenu\UIDropDownMenu.xml
+
+#Locale
+Locale\enUS.lua
+Locale\deDE.lua
+Locale\zhTW.lua
+
+
+#Core files
+#Modules\Inspect.lua
+Data\Globals.lua
+Modules\Templates.xml
+Modules\Core.lua
+
+#Data files
+#Data\ColorData.lua
+Data\CameraData.lua
+Data\AppearanceData.lua
+Data\ArtifactData.lua
+#Data\SourceData.lua
+
+Data\DataBase.lua
+Data\CLOTH.lua
+Data\LEATHER.lua
+Data\MAIL.lua
+Data\PLATE.lua
+Data\COSMETIC.lua
+
+#Modules
+Modules\ArtifactAppearances.lua
+Modules\SavedOutfits.xml
+Modules\DressingRoom.xml
+Modules\Wardrobe.xml
+
+
+Modules\CollectionList.xml
+Modules\TransmogVendor.xml
+
+Modules\ImportExport.lua
+Modules\Tooltips.lua
+#Modules\UI.lua
+Modules\SortingFunctions.lua
+
+
+#3rd party addon compatability
+#Plugins\ElvUI.lua
+Plugins\CanIMogIt.lua
+Plugins\MogIt.lua
+
+
