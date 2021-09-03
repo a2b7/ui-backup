@@ -1,0 +1,49 @@
+
+HandyNotes_BrokenShoreDB = {
+	["profileKeys"] = {
+		["Starrishaman - Tarren Mill"] = "Starrishaman - Tarren Mill",
+		["Bearris - Silvermoon"] = "Bearris - Silvermoon",
+		["Pôdpivas - Silvermoon"] = "Pôdpivas - Silvermoon",
+		["Arrissta - Tarren Mill"] = "Arrissta - Tarren Mill",
+		["Ferrosa - Silvermoon"] = "Ferrosa - Silvermoon",
+		["Staaru - Silvermoon"] = "Staaru - Silvermoon",
+		["Starrisa - Tarren Mill"] = "Starrisa - Tarren Mill",
+		["Podpivâs - Silvermoon"] = "Podpivâs - Silvermoon",
+		["Stârrisa - Tarren Mill"] = "Stârrisa - Tarren Mill",
+		["Starris - Silvermoon"] = "Starris - Silvermoon",
+		["Starogue - Silvermoon"] = "Starogue - Silvermoon",
+		["Holystarris - Silvermoon"] = "Holystarris - Silvermoon",
+		["Starrís - Silvermoon"] = "Starrís - Silvermoon",
+		["Arrissta - Silvermoon"] = "Arrissta - Silvermoon",
+	},
+	["profiles"] = {
+		["Starrishaman - Tarren Mill"] = {
+		},
+		["Bearris - Silvermoon"] = {
+		},
+		["Pôdpivas - Silvermoon"] = {
+		},
+		["Arrissta - Tarren Mill"] = {
+		},
+		["Ferrosa - Silvermoon"] = {
+		},
+		["Staaru - Silvermoon"] = {
+		},
+		["Starrisa - Tarren Mill"] = {
+		},
+		["Podpivâs - Silvermoon"] = {
+		},
+		["Stârrisa - Tarren Mill"] = {
+		},
+		["Starris - Silvermoon"] = {
+		},
+		["Starogue - Silvermoon"] = {
+		},
+		["Holystarris - Silvermoon"] = {
+		},
+		["Starrís - Silvermoon"] = {
+		},
+		["Arrissta - Silvermoon"] = {
+		},
+	},
+}

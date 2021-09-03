@@ -1,0 +1,61 @@
+VER 3 0000000000000007 "AAP_MACRO" "INV_MISC_QUESTIONMARK"
+/dump C_QuestLog.IsQuestFlaggedCompleted(44327)
+END
+VER 3 0000000000000010 "Affinity" "132121"
+#showtooltip
+/cast [spec:1,talent:3/1] [spec:3/4,talent:3/2] Maim; [nospec:1,talent:3/1] Typhoon; [spec:1/2,talent:3/2] [spec:4,talent:3/3] Incapacitating Roar; [nospec:4,talent:3/3] Ursol's Vortex
+END
+VER 3 000000000000000D "bite" "135561"
+#showtooltip
+#showcooldown Felblade
+/cast Demon's Bite
+/cast Felblade
+ 
+END
+VER 3 0000000000000012 "burst" "237577"
+#showtooltip Feral Spirit
+/cast Feral spirit
+/cast Blood Fury
+END
+VER 3 000000000000000F "CA" "132241"
+#showtooltip Celestial Alignment
+/cast Celestial Alignment
+/cast Berserk
+/use [Insert trinket name here]
+/cast Berserking
+END
+VER 3 0000000000000011 "Decurse" "236288"
+#showtooltip
+/stopcasting
+/cast [@mouseover, help, nodead] Purify Spirit
+/cast [@mouseover, help, nodead] Cleanse Spirit
+END
+VER 3 000000000000000A "focus-hex" "237579"
+#showtooltip Hex
+/cast  [mod:shift,@focus] Hex
+/cast [nomod,@target] Hex
+END
+VER 3 000000000000000E "Ice Block" "135841"
+#showtooltip Ice Block
+/stopcasting
+/cancelaura Ice block
+/cast Ice block
+END
+VER 3 000000000000000B "interrupt focus" "136018"
+#showtooltip
+/cast [mod:shift,@focus] Wind Shear
+/cast [nomod,@target] Wind Shear
+END
+VER 3 000000000000000C "purge focus" "136075"
+#showtooltip Purge
+/cast [mod:shift,@focus] Purge
+/cast [nomod,@target] Purge
+END
+VER 3 0000000000000008 "trinket13" "2061352"
+#showtooltip
+/use 13
+END
+VER 3 0000000000000009 "trinket14" "2061891"
+#showtooltip
+/use 14
+END

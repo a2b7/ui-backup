@@ -1,0 +1,28 @@
+
+ElvCharacterDB = {
+	["ChatHistoryLog"] = {
+	},
+	["ChatEditHistory"] = {
+		"/p sorry for shadow pull", -- [1]
+		"/p and for russian", -- [2]
+		"/p what a shame", -- [3]
+		"/p yeah", -- [4]
+		"/p looks liek we missed big bone guy", -- [5]
+		"/p not sd", -- [6]
+		"/p sorry", -- [7]
+		"/p kk", -- [8]
+		"/p but its my bedtime anyway", -- [9]
+		"/p so if its sd we can do it tomorrow", -- [10]
+		"/p i cant change it for some reason", -- [11]
+		"/p thanks", -- [12]
+		"/p it might be only for not key holder", -- [13]
+		"/cw Dafal-Drak'thul may i add you in my battle net firends list and run some keys next seson together?", -- [14]
+		"/p big thank you", -- [15]
+		"/p have a good time", -- [16]
+		"/p cya", -- [17]
+		"/cw Dafal-Drak'thul may i ask for your btag or invite you to party?", -- [18]
+		"/cw Dafal-Drak'thul thanks", -- [19]
+		"/cw Dafal-Drak'thul cya", -- [20]
+	},
+	["ConvertKeybindings"] = true,
+}

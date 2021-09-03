@@ -1,0 +1,135 @@
+
+MasterPlanAG = {
+	["Twisting Nether"] = {
+		["Starrisa"] = {
+			["class"] = "MONK",
+			["faction"] = "Horde",
+		},
+	},
+	["Tarren Mill"] = {
+		["Starriss"] = {
+			["class"] = "DEATHKNIGHT",
+			["faction"] = "Horde",
+		},
+		["Starrishaman"] = {
+			["class"] = "SHAMAN",
+			["faction"] = "Horde",
+		},
+		["Warrisst"] = {
+			["faction"] = "Horde",
+			["class"] = "WARRIOR",
+		},
+		["Starrisa"] = {
+			["class"] = "MONK",
+			["faction"] = "Horde",
+		},
+		["Starrís"] = {
+			["class"] = "DEMONHUNTER",
+			["faction"] = "Horde",
+		},
+		["Bearris"] = {
+			["faction"] = "Horde",
+			["class"] = "DRUID",
+		},
+		["Starogue"] = {
+			["faction"] = "Horde",
+			["class"] = "ROGUE",
+		},
+		["Arrissta"] = {
+			["faction"] = "Horde",
+			["class"] = "DEMONHUNTER",
+		},
+		["Stârrisa"] = {
+			["class"] = "MAGE",
+			["faction"] = "Horde",
+		},
+		["Starisa"] = {
+			["faction"] = "Horde",
+			["class"] = "MAGE",
+		},
+		["Holystarris"] = {
+			["class"] = "PALADIN",
+			["faction"] = "Alliance",
+		},
+	},
+	["Silvermoon"] = {
+		["Arristinio"] = {
+			["class"] = "DEATHKNIGHT",
+			["lastCacheTime"] = 1623357801,
+			["curRes"] = 592,
+			["faction"] = "Alliance",
+		},
+		["Podpivâs"] = {
+			["class"] = "WARRIOR",
+			["faction"] = "Alliance",
+		},
+		["Staaru"] = {
+			["faction"] = "Alliance",
+			["class"] = "PRIEST",
+		},
+		["Holystarris"] = {
+			["faction"] = "Alliance",
+			["class"] = "PALADIN",
+		},
+		["Starrís"] = {
+			["recruitTime"] = 1625038662,
+			["summary"] = {
+				["inProgress"] = {
+					[127] = 1625581497,
+					[185] = 1625582091,
+					[120] = 1625581494,
+					[380] = 1625581499,
+				},
+			},
+			["faction"] = "Alliance",
+			["curOil"] = 75,
+			["lastCacheTime"] = 1625564288,
+			["curRes"] = 242,
+			["class"] = "DEMONHUNTER",
+		},
+		["Ferrosa"] = {
+			["class"] = "ROGUE",
+			["faction"] = "Alliance",
+		},
+		["Pôdpivas"] = {
+			["faction"] = "Neutral",
+			["class"] = "MAGE",
+		},
+		["Starrisango"] = {
+			["faction"] = "Alliance",
+			["class"] = "DEATHKNIGHT",
+		},
+		["Arrissta"] = {
+			["faction"] = "Alliance",
+			["class"] = "DEMONHUNTER",
+		},
+		["Starogue"] = {
+			["summary"] = {
+				["tt3"] = true,
+				["ti3"] = 127855,
+			},
+			["curOil"] = 55,
+			["faction"] = "Alliance",
+			["class"] = "ROGUE",
+			["curRes"] = 4960,
+			["lastCacheTime"] = 1625175938,
+		},
+		["Starris"] = {
+			["summary"] = {
+				["inProgress"] = {
+					[150] = 1624096597,
+					[154] = 1624094794,
+					[376] = 1624128987,
+				},
+			},
+			["faction"] = "Alliance",
+			["lastCacheTime"] = 1624092956,
+			["curRes"] = 975,
+			["class"] = "DEATHKNIGHT",
+		},
+		["Bearris"] = {
+			["faction"] = "Alliance",
+			["class"] = "DRUID",
+		},
+	},
+}

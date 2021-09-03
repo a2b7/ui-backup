@@ -1,0 +1,29 @@
+
+ElvCharacterDB = {
+	["ChatEditHistory"] = {
+	},
+	["ChatHistoryLog"] = {
+		{
+			"|cffffd100|HclubFinder:ClubFinder-1-26484-3391-83320966|h[Guild: Delirium]|h|r 9/10M is recruiting for  Mythic Progress. Our raiding days are WED/THU 19:45 - 23:00 Server time /w for more info  (1 healer 2 dps Warlock is needed)", -- [1]
+			"Niyoki-Silvermoon", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Niyoki-Silvermoon", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			1129, -- [11]
+			"Player-3391-0BFB4924", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			true, -- [17]
+			[52] = "|cff00fe97Niyoki|r",
+			[51] = 1623354130,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [1]
+	},
+}

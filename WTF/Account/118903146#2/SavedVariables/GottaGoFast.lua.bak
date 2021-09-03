@@ -1,0 +1,17 @@
+
+GottaGoFastDB = {
+	["profileKeys"] = {
+		["Bearris - Tarren Mill"] = "Default",
+		["Bearris - Silvermoon"] = "Default",
+		["Starris - Silvermoon"] = "Default",
+		["Starogue - Silvermoon"] = "Default",
+		["Podpivâs - Silvermoon"] = "Default",
+		["Starrís - Silvermoon"] = "Default",
+		["Ferrosa - Silvermoon"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+			["Version"] = 40000,
+		},
+	},
+}

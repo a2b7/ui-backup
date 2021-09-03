@@ -1,0 +1,27 @@
+
+ElvCharacterDB = {
+	["ChatEditHistory"] = {
+		"yeah, dks are the worst, hated it in legion even tho my friend needed almost no healing xD", -- [1]
+		"there are weakauras for bloodstrike", -- [2]
+		"and you can see my runic power so you know if i can use it or not", -- [3]
+		"it costs 40 runic power, just make weakaura for that at start :)", -- [4]
+		"/p кастрблю борща", -- [5]
+		"на некст будет слот?", -- [6]
+		"сорян, обычно писалось попроситься в группу, когда чел в ключе", -- [7]
+		"первый босс, минут 15 есть, понял, попить намучу и буду в дисе знамений ждать тебя, ок?", -- [8]
+		"10*", -- [9]
+		"rdy", -- [10]
+		"/p run", -- [11]
+		"/p grip", -- [12]
+		"/i if you mash hard enough you can take 2", -- [13]
+		"/i try next time", -- [14]
+		"/i run to boss", -- [15]
+		"/i try there", -- [16]
+		"/i mash fast", -- [17]
+		"/i wp", -- [18]
+		"/i cya", -- [19]
+		"/i xoxo", -- [20]
+	},
+	["ChatHistoryLog"] = {
+	},
+}

@@ -1,0 +1,23 @@
+
+sArena3DB = {
+	["profileKeys"] = {
+		["Starrishaman - Tarren Mill"] = "Default",
+		["Starrisango - Silvermoon"] = "Default",
+		["Bearris - Silvermoon"] = "Default",
+		["Podpivâs - Silvermoon"] = "Default",
+		["Ferrosa - Silvermoon"] = "Default",
+		["Staaru - Silvermoon"] = "Default",
+		["Pôdpivas - Silvermoon"] = "Default",
+		["Stârrisa - Tarren Mill"] = "Default",
+		["Arristinio - Silvermoon"] = "Default",
+		["Starris - Silvermoon"] = "Default",
+		["Starogue - Silvermoon"] = "Default",
+		["Starrisa - Tarren Mill"] = "Default",
+		["Arrissta - Tarren Mill"] = "Default",
+		["Holystarris - Silvermoon"] = "Default",
+	},
+	["profiles"] = {
+		["Default"] = {
+		},
+	},
+}
